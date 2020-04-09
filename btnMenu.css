@@ -1,0 +1,18 @@
+.btnMenu {
+  display: block;
+  background-repeat: no-repeat;
+  text-indent: -9999;
+  padding-top: 20 px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  padding: 20px 15px;
+}
+
+.btnMenu_open {
+  background-image: url(../image/hamburguinho.svg);
+}
+
+.btnMenu_close {
+  background-color: gray;
+  background-image: url(../img/hamburguinho-branco.svg);
+}
